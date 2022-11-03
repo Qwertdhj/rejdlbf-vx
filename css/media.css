@@ -1,0 +1,235 @@
+@media screen and (max-width: 480px) {
+    .home_Appu_QweS12609D
+    {
+        left: 41px;
+        z-index: 99;
+top: 615px;
+    }
+    .lattice_Appu_QweS12690D
+    {
+        width: 30px;
+        height: 36px;
+        left: 118px;
+        top: 615px;
+        z-index: 99;
+        
+    }
+    .notifications_Appu_QweS12609D
+    {
+        width: 30px;
+        height: 30px;
+        left: 178px;
+        z-index: 99;
+        top: 615px;
+        
+    }
+    .messanger_Appu_QweS12609D
+    {
+        width: 30px;
+        height: 30px;
+        left: 238px;
+        top: 615px;
+        z-index: 99;
+    }
+    .MyList_Appu_QweS12690D
+    {
+        width: 30px;
+        height: 30px;
+        left: 305px;
+        top: 615px;
+        z-index: 99;
+    }
+    .line_Appu_QweS12690D
+    {
+        width: 27px;
+height: 0px;
+left: 39px;
+z-index: 99;
+margin-top: 470px;
+transform: rotate(0deg);
+    }
+    .bloc
+    {
+        position: fixed;
+width: 374px;
+height: 69px;
+left: 1px;
+top: 598px;
+display: block;
+background: #FFFFFF;
+border-radius: 30px 30px 0px 0px;
+z-index: 98;
+    }
+.Appu_text_QweS12690D header
+    {
+        position: absolute;
+width: 352px;
+height: 25px;
+left: 12px;
+top: 31px;
+
+font-family: 'Roboto Slab';
+font-style: normal;
+font-weight: 700;
+font-size: 27px;
+line-height: 100%;
+/* or 27px */
+
+
+color: #000000;
+    }
+.Appu_text_QweS12690D h3
+    {
+        position: absolute;
+        width: 90%   ;
+height: 34px;
+left: 12px;
+top: 64px;
+
+font-family: 'Roboto Slab';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 18px;
+
+color: #434343;
+    }
+    .collection_card_Appu_QweS12690D
+    {
+        position: absolute;
+        width: 151px;
+        height: 186px;
+        left: 27px;
+        top: 122px;
+    }
+.collection_card_Appu_QweS12690D img
+    {
+        position: absolute;
+width: 151px;
+height: 186px;
+left: 0;
+top: 0;
+    }
+    .bloc_Appu_Opi_QweS12690D,
+    .collection_card_Appu_QweS12690D h3
+    {
+        display: none;
+    }
+    .collection_card_Appu_QweS12690D:nth-child(5n)
+    {
+        transform: rotate(0deg);
+        left: 194px;
+top: 122px;
+    }
+    input
+    {
+        position: absolute;
+        width: 240px;
+        height: 36px;
+        left: -25px;
+        top: 0px;
+    }
+    .container
+    {
+        left: 33px;
+top: 488px;
+width: 322px
+    }
+    .recommended_Appu_QweS12690D h3
+    {
+        position: absolute;
+    width: 90%   ;
+    height: 24px;
+    left: 19px;
+    top: 530px;
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 24px;
+    color: #000000;
+    }
+    .register_Appu_QweS12690D
+    {
+        display: none;
+    }
+    .recomended_card_movie_Appu_QweS12690D
+    {
+        width: 322px;
+    height: 362px;
+    left: -27px;
+    margin-top: 25px;
+    top: 560px;
+}
+.movie_card_Appu_QweS12690D h3 {
+    position: absolute;
+    width: 90%   ;
+    height: 29px;
+    left: 17px;
+    top: 3725px;
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 29px;
+    color: #000000;
+}
+.companu_Appu_QweS12690D
+{
+    left: 25px;
+}
+.card_movie_QweS13690D {
+    margin-top: 55px;
+}
+.series_Appu_QweS12690D
+{
+    top: 6327px;
+    position: absolute;
+}
+.series_Appu_QweS12690D h3 {
+    width: 90%   ;
+    top: 615px;
+}
+.Watching_now_Appu_QweS16690D h3
+{
+    top: 7077px;
+}
+.collection_Appu_QweS12690D h3
+{
+    display: none;
+}
+.Watching_now_Appu_QweS16690D {
+    margin-top: 55px;
+}
+.collection_img_Appu_QweS12690D 
+{
+    position: absolute;
+    width: 134px;
+    top: -6000px;
+    height: 115px;
+    left: -25px;
+}
+.collection_img_Appu_QweS12690D {
+  
+    position: relative;
+    width: 142px;
+    top: -15710px;
+    height: 115px;
+    left: -31px;
+    margin-left: 40px;
+}
+.rating_Appu_QweS12690D h3
+{
+top: 3820px;
+width: 90%   ;
+}
+.card_movie_QweS15690D {
+    margin-top: 56px;
+}
+
+.Appu
+{
+    display: none;
+}
+}
+
